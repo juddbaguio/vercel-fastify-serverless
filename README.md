@@ -1,0 +1,1 @@
+# Example of Vercel Serverless functions with Fastify and TypeScript
